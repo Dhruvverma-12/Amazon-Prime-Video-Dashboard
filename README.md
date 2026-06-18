@@ -140,10 +140,10 @@ Amazon-Prime-Video-Dashboard/
 │   └── amazon_prime_titles.csv
 │
 ├── Dashboard/
-│   └── Amazon_Prime_Video_Dashboard.pbix
+│   └── Amazon Prime Video Dashboard.pbix
 │
 ├── Images/
-│   └── Dashboard_Preview.png
+│   └── Snapshot of Amazon Prime Video Dashboard.png
 │
 └── README.md
 ```
