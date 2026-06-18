@@ -20,10 +20,15 @@ The goal of this project is to demonstrate data visualization, dashboard design,
 ## Key Business Questions Answered
 
 ✔️ How has Amazon Prime Video's content library grown over time?
+
 ✔️ What is the distribution between Movies and TV Shows?
+
 ✔️ Which genres dominate the platform?
+
 ✔️ Which age ratings are most common?
+
 ✔️ Which countries contribute the highest number of titles?
+
 ✔️ How many directors and genres are represented in the catalog?
 
 ---
