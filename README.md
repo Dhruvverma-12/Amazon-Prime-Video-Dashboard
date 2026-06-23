@@ -1,4 +1,13 @@
-# Amazon Prime Video Analytics Dashboard
+# 🎬 Amazon Prime Video Analytics Dashboard
+
+<img src="https://github.com/Dhruvverma-12/Amazon-Prime-Video-Dashboard/blob/main/Snapshot%20of%20Amazon%20Prime%20Video%20Dashboard.png" width="100%">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Project-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+---
+
 
 ## Project Overview
 
